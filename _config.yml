@@ -64,7 +64,7 @@ author:
   bio    : "PhD Candidate at Hanyang Univ."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:dayoungjeong@hanyang.ac.kr"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
