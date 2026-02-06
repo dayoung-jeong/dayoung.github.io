@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Dayoung Jeong"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dayoung_image.jpg"
   bio    : "PhD Candidate at Hanyang Univ."
   links:
     - label: "Email"
