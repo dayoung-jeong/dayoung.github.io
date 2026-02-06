@@ -65,7 +65,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "dayoungjeong@hanyang.ac.kr"
+      url: "mailto:dayoungjeong@hanyang.ac.kr"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Hc_LRYkAAAAJ&hl=en"
