@@ -1,0 +1,29 @@
+---
+title: "VR-ACT: Transforming Clinical Evidence of Acceptance and Commitment Therapy through Virtual Reality for Subthreshold Depression"
+excerpt: "[Springer Virtual Reality] Bogoan Kim, Dayoung Jeong, Yoonseon Choi, Hyungsook Kim, Kyungsik Han"
+date: 2025-12-01
+categories:
+  - HCI
+  - Digital Healthcare
+  - Virtual Reality
+tags:
+  - Depression
+  - Acceptance and Commitment Therapy
+  - Data Analysis
+---
+
+<span style="color: #9370db"><strong>Springer Virtual Reality</strong></span>
+
+Bogoan Kim, Dayoung Jeong, Yoonseon Choi, Hyungsook Kim, Kyungsik Han
+
+**Abstract**
+
+Subthreshold depression (StD), recognized as a precursor to major depressive disorder, can lead to significant functional impairment and social burden without timely intervention, posing critical challenges for traditional therapeutic approaches in terms of accessibility and sustained engagement. Harnessing the power of digital intervention can be one possible solution, and in this paper, we present VR-ACT, a virtual reality (VR) system developed through interdisciplinary collaboration (e.g., HCI, mental health). The aim of VR-ACT is to transform the six core principles of acceptance and commitment therapy (ACT) into VR content and provide immersive experiences tailored for individuals with StD. The feasibility of VR-ACT was evaluated in a quasi-experimental study with 56 participants (28 StD group, 28 non-depressed group). We employed user experience measures to assess the feasibility and user engagement potential of the system and investigated five hypotheses by analyzing unique behavioral patterns in the StD group through sensor and log data. The study results demonstrated that VR-ACT is a feasible approach for delivering immersive mental health support and revealed distinct behavioral patterns in the StD group that can serve as potential clinical indicators. Our study contributes to the digital transformation of ACT by demonstrating the feasibility of VR-ACT and identifying digital phenotypes specific to individuals with StD. Building on these findings, we propose a digital transformation framework that emphasizes (1) mapping clinical evidence onto user interaction data and (2) fostering interdisciplinary collaboration led by experts in HCI and immersive system design to develop evidence-based digital interventions. We also outline key design implications for enhancing user engagement in immersive therapeutic settings.
+
+**Overview of VR-ACT**
+
+{% include figure image_path="/assets/images/VR-ACT_Figure1.png" alt="Overview of VR-ACT" caption="Overview of VR-ACT demonstrating digital transformation that externalizes ACT principles into virtual environments, where participants mainly conduct given user tasks in the foreground (first row) while realistic background scenes (second row) enhance immersion across five sessions. The transformation process externalizes ACT principles based on clinical evidence, while content data collected from VR-ACT validates these core principles." %}
+
+**Screenshots of the key user tasks across the five sessions**
+
+{% include figure image_path="/assets/images/VR-ACT_Figure2.png" alt="Screenshots" caption="In Session 1, users collect emotion-labeled shells (top) and practice acceptance through meditation (bottom). In Session 2, they remove disruptive music bugs (top) and experience harmony (bottom). Session 3 involves decorating a personal space with various colors (top) and meditating (bottom). In Session 4, users create avatars that resemble themselves (top: male; bottom: female). In Session 5, participants select life goals (top) and navigate obstacles to pursue them (bottom)." %}
