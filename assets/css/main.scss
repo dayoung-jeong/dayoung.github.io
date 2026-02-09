@@ -9,8 +9,9 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* === custom styles === */
-.archive__item-excerpt {
-font-size: 0.5rem;
+.archive__item-excerpt,
+.archive__item-excerpt p {
+font-size: 0.8rem !important;
 }
 .archive__item-title a {
 color: #5b5b5b;
