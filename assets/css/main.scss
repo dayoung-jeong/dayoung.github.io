@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* === custom styles === */
+.archive__item-excerpt {
+font-size: 0.85rem;
+}
+.archive__item-title a {
+color: #9370db;
+font-size: 1rem;
+}
