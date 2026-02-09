@@ -9,12 +9,10 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* === custom styles === */
-.archive__item-excerpt,
-.archive__item-excerpt p {
-font-size: 0.8rem !important;
-}
 .archive__item-title a {
 color: #5b5b5b;
 font-size: 1.1rem;
-  
+}
+.author__avatar img {
+border-radius: 20px;
 }
