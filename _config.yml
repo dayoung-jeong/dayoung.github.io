@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Dayoung Jeong"
   avatar : "/assets/images/dayoungjeong.jpg"
-  bio    : "PhD Candidate at Hanyang Univ."
+  bio    : "PhD Candidate @ Hanyang Univ."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
